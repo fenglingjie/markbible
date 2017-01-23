@@ -1,2 +1,2 @@
 # markbible
-my tool for read bible
+my tool for bible reading
